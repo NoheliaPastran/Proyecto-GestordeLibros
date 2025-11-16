@@ -8,5 +8,3 @@
 ## Próximas actividades
 - Crear rama feature/inicio-frontend.
 - Crear documentación inicial en docs/.
-## Corrección
-- Se corrigió un error menor en la estructura del proyecto.
