@@ -22,4 +22,4 @@ Este proyecto permite gestionar lecturas (libros, artículos, notas y resúmenes
 (Se añadirá cuando se implemente el código)
 
 
-Generar conflicto
+Generar conflicto prueba 
