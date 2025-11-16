@@ -20,3 +20,6 @@ Este proyecto permite gestionar lecturas (libros, artículos, notas y resúmenes
 
 ## Cómo ejecutar el proyecto
 (Se añadirá cuando se implemente el código)
+
+
+Generar conflicto prueba 
